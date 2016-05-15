@@ -29,12 +29,12 @@ module.exports = React.createClass({
             name="viewport"
             content="width=device-width, initial-scale=1.0 maximum-scale=5.0"
           />
+          <meta name="robots" content="noindex,nofollow"/>
+          <script src="https://use.typekit.net/hgl6suf.js"></script>
           <title>{title}</title>
           <TypographyStyle />
           {css}
           <style
-          <script src="https://use.typekit.net/hgl6suf.js"></script>
-          <script>try{Typekit.load({ async: true });}catch(e){}</script>
             dangerouslySetInnerHTML={{
               __html:
                 `

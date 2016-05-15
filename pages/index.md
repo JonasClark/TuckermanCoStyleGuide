@@ -1,8 +1,9 @@
 ---
-title: "Welcome to the Tuckerman & Co Style Guide"
+title: "WELCOME TO THE TUCKERMAN & CO STYLE GUIDE"
 ---
+[image of tuckerman logo]('/pages/Tuckerman-Logo-for-Qdeck-Website.svg')
 
-## Inops magnis Acrisius remisit Circes
+## Here you will find everything related to the Tuckerman & Co Brand
 
 Lorem markdownum *formasque* terram, fatum adnuit memores, stipulis
 virgine,
@@ -13,14 +14,6 @@ ille per
 et opus flecti tellus inter: curru sidus. O iunxit ita erat, frondes,
 hac proles
 inritaturque?
-
-## Sed videt vestem vagatur
-
-Palato rubentis enim, ora fontes lunaria, ventis iacebant pariter. Illa
-latet
-primae concedimus factis, animo ab nec vagantem praemia sustollit.
-Secunda
-detque ecce, sua vixque fontes *quantam* aede.
 
 ## Cuique in nullum futuri
 
