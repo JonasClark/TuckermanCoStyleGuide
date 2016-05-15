@@ -33,6 +33,8 @@ module.exports = React.createClass({
           <TypographyStyle />
           {css}
           <style
+          <script src="https://use.typekit.net/hgl6suf.js"></script>
+          <script>try{Typekit.load({ async: true });}catch(e){}</script>
             dangerouslySetInnerHTML={{
               __html:
                 `
