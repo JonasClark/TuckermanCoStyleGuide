@@ -2,6 +2,6 @@
 title: Introduction
 ---
 
-**AlphabetJS** is the latest and greatest Javascript Framework. It's
-amazing and wonderful and you'll probably love it more than all of the
-other ones.
+**Overview of Tuckerman Brand**
+
+This is where we can put an introductin to the Tuckerman brand and little context for everything that follows.

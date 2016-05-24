@@ -1,7 +1,7 @@
 ---
 title: "WELCOME TO THE TUCKERMAN & CO STYLE GUIDE"
 ---
-[image of tuckerman logo]('/pages/Tuckerman-Logo-for-Qdeck-Website.svg')
+![image of tuckerman logo](Tuckerman-Logo-for-Qdeck-Website.svg)
 
 ## Here you will find everything related to the Tuckerman & Co Brand
 

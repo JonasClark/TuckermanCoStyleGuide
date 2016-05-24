@@ -55,6 +55,9 @@ module.exports = React.createClass({
           >
             {isActive ? <strong>{child.title}</strong> : child.title}
           </Link>
+          <ul>
+              <li>Need dynamic links here</li>
+          </ul>
         </li>
       )
     })

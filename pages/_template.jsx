@@ -89,7 +89,7 @@ module.exports = React.createClass({
                     marginTop: rhythm(-1),
                   }}
                 >
-                  Documentation
+                  Brand Guide
                 </Link>
               </Span>
             </Grid>
